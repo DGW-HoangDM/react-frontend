@@ -132,6 +132,7 @@ q:after {
 table {
   border-collapse: collapse;
   border-spacing: 0;
+  color: red; 
 }
 table tr:first-child td:last-child {
    display: none;
